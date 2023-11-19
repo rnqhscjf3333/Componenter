@@ -21,7 +21,7 @@
 - 유니티
 
 ## 📌 구현 내용
-[컴포넌트 모드 & 플레이어 모드 & 몬스터 영상](https://www.youtube.com/watch?v=TIWSmZjmpVk)
+### [컴포넌트 모드 & 플레이어 모드 & 몬스터 영상](https://www.youtube.com/watch?v=TIWSmZjmpVk)
 ### 컴포넌트 모드
 ![image](https://github.com/rnqhscjf3333/Componenter/assets/41632370/474d3a82-6811-405c-8fe2-04aea6b2ea1d)
 - 현실의 친구 시점에서 게임툴을 이용해서 컴포넌트를 부여&제거
