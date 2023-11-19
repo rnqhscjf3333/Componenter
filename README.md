@@ -47,7 +47,8 @@
 - Attack 컴포넌트를 플레이어에게 부여할 경우 몬스터가 소유했던 무기로 변경
 - 빨간 테두리의 컴포넌트를 보유한 강화형 몬스터의 경우 컴포넌트 조작불가
 
-### 보스전(과거의 개발자) [영상](https://youtu.be/04aKGoTWfTI)
+### 보스전(과거의 개발자)
+### [보스전 영상](https://youtu.be/04aKGoTWfTI)
 ![image](https://github.com/rnqhscjf3333/Componenter/assets/41632370/c1a2726d-aee2-4ab0-9d35-fff4ee51fd06)
 - 개발자를 게임 안에 가둔 만악의 근원
 - 플레이어 컴포넌트 창과 반대되는 색상의 보스전용 컴포넌트 창 사용
