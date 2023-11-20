@@ -1,5 +1,5 @@
 # Componenter
-![image](https://github.com/rnqhscjf3333/Componenter/assets/41632370/c675295e-127d-4225-8307-caf8e717bdb8)<br>
+![image](https://github.com/rnqhscjf3333/Componenter/assets/41632370/18066e27-8c9a-4693-84f5-9ad2ac4bf971)
 - 2D 퍼즐 플랫포머 게임
 
 ## 🖥️ 프로젝트 소개
